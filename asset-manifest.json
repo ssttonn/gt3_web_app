@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/gt3_web_app/static/css/main.f855e6bc.css",
-    "main.js": "/gt3_web_app/static/js/main.57514d91.js",
-    "static/js/453.5d1f2704.chunk.js": "/gt3_web_app/static/js/453.5d1f2704.chunk.js",
+    "main.css": "/gt3_web_app/static/css/main.dc4d6ff2.css",
+    "main.js": "/gt3_web_app/static/js/main.8418a4fd.js",
     "static/media/logo.svg": "/gt3_web_app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/gt3_web_app/index.html",
-    "main.f855e6bc.css.map": "/gt3_web_app/static/css/main.f855e6bc.css.map",
-    "main.57514d91.js.map": "/gt3_web_app/static/js/main.57514d91.js.map",
-    "453.5d1f2704.chunk.js.map": "/gt3_web_app/static/js/453.5d1f2704.chunk.js.map"
+    "main.dc4d6ff2.css.map": "/gt3_web_app/static/css/main.dc4d6ff2.css.map",
+    "main.8418a4fd.js.map": "/gt3_web_app/static/js/main.8418a4fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.57514d91.js"
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.8418a4fd.js"
   ]
 }
